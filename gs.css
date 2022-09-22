@@ -1,0 +1,35 @@
+.speech {
+    font-size: 12px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.direction{
+    background-color: aquamarine;
+}
+.direction:hover{
+    background-color: violet;
+    color: blue;
+}
+.CHORUS{
+    font-size: 14px;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.CONST{
+    font-size: 14px;
+    color:greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.NOTARY{
+    font-size: 14px;
+    color:goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.song{
+    font-size: 12px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
